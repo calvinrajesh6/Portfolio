@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.6b66f420.css",
+    "main.js": "/Portfolio/static/js/main.3a9709aa.js",
+    "static/media/recipefinder.png": "/Portfolio/static/media/recipefinder.6b4529d1c2464ca7fc1e.png",
+    "static/media/chromedino.png": "/Portfolio/static/media/chromedino.e2ca21cdba3079b2522e.png",
+    "static/media/batman_about.jpg": "/Portfolio/static/media/batman_about.efe09f0a8b9ed3683fe6.jpg",
+    "static/media/familytracker.png": "/Portfolio/static/media/familytracker.736dad3199e90b925214.png",
+    "static/media/batman.jpg": "/Portfolio/static/media/batman.5dab2b53cf59ee27e2bc.jpg",
+    "static/media/tech.png": "/Portfolio/static/media/tech.b28010a8d16f1f9f7114.png",
+    "static/media/project.png": "/Portfolio/static/media/project.df5b7640de365fbad781.png",
+    "static/media/machine-learning.png": "/Portfolio/static/media/machine-learning.dd1fafc4452e0bf51ea3.png",
+    "static/media/airplane.png": "/Portfolio/static/media/airplane.6fdeb3834e50853c5a06.png",
+    "static/media/food.png": "/Portfolio/static/media/food.1ac9095b202211c1ca48.png",
+    "index.html": "/Portfolio/index.html",
+    "main.6b66f420.css.map": "/Portfolio/static/css/main.6b66f420.css.map",
+    "main.3a9709aa.js.map": "/Portfolio/static/js/main.3a9709aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b66f420.css",
+    "static/js/main.3a9709aa.js"
+  ]
+}
